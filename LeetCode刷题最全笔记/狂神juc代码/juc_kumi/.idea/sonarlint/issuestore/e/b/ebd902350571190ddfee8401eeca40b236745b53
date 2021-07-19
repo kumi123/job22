@@ -1,0 +1,14 @@
+
+h
+java:S3776
+"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(Çµí‘
+\
+java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+\
+java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+\
+java:S2142%"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+\
+java:S21420"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+S	java:S106D"9Replace this use of System.out or System.err by a logger.(êÖÒşÿÿÿÿ
+S	java:S106P"9Replace this use of System.out or System.err by a logger.(êÖÒşÿÿÿÿ

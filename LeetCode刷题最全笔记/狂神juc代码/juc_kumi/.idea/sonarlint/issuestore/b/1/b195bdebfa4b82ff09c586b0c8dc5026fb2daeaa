@@ -1,0 +1,16 @@
+
+B
+java:S1612",Replace this lambda with a method reference.(¥—ığ
+B
+java:S1602",Remove useless curly braces around statement(¥—ığ
+\
+java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+B
+java:S1612",Replace this lambda with a method reference.(¥—ığ
+B
+java:S1602",Remove useless curly braces around statement(¥—ığ
+\
+java:S2142'"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(¹ñ·ùÿÿÿÿ
+S	java:S106."9Replace this use of System.out or System.err by a logger.(íƒüŞıÿÿÿÿ
+N	java:S1063"9Replace this use of System.out or System.err by a logger.(£ÆÏÁ
